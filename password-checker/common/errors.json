@@ -1,0 +1,8 @@
+{
+  "exists": "password should exist",
+  "length": "password should be longer than than 8 characters",
+  "lowercase": "password should have at least have one lowercase letter",
+  "uppercase": "password should have at least one uppercase letter",
+  "digit": "password should at least have one digit",
+  "specialchars": "password should have at least one special character"
+}
